@@ -54,7 +54,7 @@ Backend will run at `http://localhost:8080/`
 
 ## 📜 API Documentation
 ### 🔹 Postman API Collection
-[View API Documentation on Postman](your-postman-link-here)
+[View API Documentation on Postman](https://documenter.getpostman.com/view/33952195/2sAYdkGoTM)
 
 ## 🔧 Build for Production
 To create an optimized production build:
@@ -66,7 +66,7 @@ To create an optimized production build:
 This project is licensed under the [MIT License](LICENSE).
 
 ## 📬 Contact
-For any queries or collaborations, reach out to us at **[your email/contact info]**.
+For any queries or collaborations, reach out to us at **[mail](mailto:harshprakash06@outlook.com)**.
 
 ---
 Developed with ❤️ by the **SplitX Team**
