@@ -1,0 +1,16 @@
+runtime: java
+env: flex  # Enables Flexible Environment
+
+network:
+  session_affinity: true  # Required for WebSockets
+  forwarded_ports:
+    - 8080/tcp  # Open WebSocket Port
+    - 8443/tcp  # Secure WebSocket (WSS)
+
+manual_scaling:
+  instances: 1  # Keep at least one instance running
+
+resources:
+  cpu: 1
+  memory_gb: 0.5
+  disk_size_gb: 10
