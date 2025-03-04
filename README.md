@@ -69,4 +69,4 @@ This project is licensed under the [MIT License](LICENSE).
 For any queries or collaborations, reach out to us at **[mail](mailto:harshprakash06@outlook.com)**.
 
 ---
-Developed with ❤️ by the **SplitX Team**
+Developed with ❤️ by the **HARSH**
